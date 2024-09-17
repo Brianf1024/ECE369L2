@@ -1,8 +1,8 @@
 # Exercise 3
 # Max Score: 12 points
 #
-# Students: 
-#
+# Students: Brian Flores, Joseph Wallace, Jose Elizarraras
+# Overall percent effort: 33%,33%,33%#
 # minimum.s 
 # Finds the index of the smallest element in an integer array
 # V[], which contains n items.  
