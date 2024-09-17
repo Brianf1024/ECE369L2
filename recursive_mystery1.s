@@ -50,5 +50,5 @@ li	$v0, 0			# Return value
 # check if a0 !=0
 # we loop through Tomato 9 times
 # added 3, 9, 1, 2, 6, 3, -4, -7, -8 ended at 5
-# solution: the tomato function adds the first 9 elements in the array together using a pointer to iterate through the array
+# solution: the tomato function adds the first 9 elements in the array together using a pointer to iterate through the array until we iterate through the loop 9 times.
 #                
