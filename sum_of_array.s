@@ -2,8 +2,8 @@
 # 'sum_of_array.s' - This program performs the sum of the array
 #  Max Score: 5 points
 #
-# Students: 
-#
+# Students: Brian Flores, Joseph Wallace, Jose Elizarraras
+# Overall percent effort: 33%,33%,33%
 #
 # Insert your answers below each question:-
 # 1(a) What is the address location of the first element of the array, X.
