@@ -7,9 +7,9 @@
 #
 # Insert your answers below each question:-
 # 1(a) What is the address location of the first element of the array, X.
-#      Answer: 10010000 or 0001 0000 0000 0001 0000 0000 0000 0000
+#      Answer: 10010004 or 10000000000010000000000000100 in binary
 # 1(b) What is the address location of the last element (element 7) of the array, X.
-#	Answer: 10010008 or 0001 0000 0000 0001 0000 0000 0000 1000 
+#	Answer: 1001000C or 10000000000010000000000001100
 #
 # 2.   What are the values at location 'SUM' as the program executes?
 #	Answer: 1 at the very end
