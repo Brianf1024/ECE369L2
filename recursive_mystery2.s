@@ -55,7 +55,7 @@ main:	addi	$sp, $sp, -4	# Make space on stack
 	li	$a0, 13		
 	jal	test		
 # What is the value of $v0 at this point?	(v0) = 10  #
-# What does this code compute? Your answer HERE: _ _ _ _ _ _ _ _ _ _ _ _ #
+# What does this code compute? Your answer HERE: Computes the sum of array of elements in tomato all the way from 0 to a1-1 in indexes #
 
 return:	
 li	$v0, 0		# Return value
