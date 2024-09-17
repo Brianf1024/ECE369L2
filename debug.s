@@ -1,7 +1,8 @@
 # Exercise 2
 #  Max Score: 9 points
 #
-# Students: 
+# Students: Brian Flores, Joseph Wallace, Jose Elizarraras
+# Overall percent effort: 33%,33%,33%
 #
 # 'count_occurence.a' - count the occurrences of a specific character in string 
 # "str". Indexed addressing is used to access the array elements.
