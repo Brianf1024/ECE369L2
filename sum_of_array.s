@@ -7,14 +7,17 @@
 #
 # Insert your answers below each question:-
 # 1(a) What is the address location of the first element of the array, X.
-#      Answer: 10000000000010000000000000100
+#      Answer: 10010000 or 0001 0000 0000 0001 0000 0000 0000 0000
 # 1(b) What is the address location of the last element (element 7) of the array, X.
-#	Answer:10000000000010000000000010000
+#	Answer: 10010008 or 0001 0000 0000 0001 0000 0000 0000 1000 
+#
 # 2.   What are the values at location 'SUM' as the program executes?
 #	Answer: 1 at the very end
+#
 # 3.   Traverse the program in single-step mode. Write down the intermediate 
 #      values stored in register $s1 as the program progresses.
 #	Answer: starts at -2, goes to -6 and ends at 1
+#
 # 4.   What is the purpose of register $t0 in this program?
 #	Answer: $t0 is the pointer of the address where every addition of 4 
 #	moves to the next element in the array 
